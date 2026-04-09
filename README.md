@@ -19,8 +19,8 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const sohag = {
-  name: "Sohag Ali",
+const Saim = {
+  name: "MD.Abu saim",
   role: "Full Stack Web Developer",
   location: "Bangladesh 🇧🇩",
   focus: "Clean, Scalable & User-Friendly Web Apps",
